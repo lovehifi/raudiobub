@@ -30,7 +30,9 @@ Add: username, password, Server URL (BubbleUPnP Server): local-ip:58050 or your-
 > 
 4./ **Add to Play**
 > Choose Server, Choose Music, Add Album
-> It can play Hi-Res music from the internet via your NAS.
+>
+It can play Hi-Res music from the internet via your NAS.
+>
 ![Screenshot](rAudioBubble.png)
 >
 
