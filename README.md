@@ -18,6 +18,7 @@ In rAudio, the Playlist tab, click the VU icon.
 Add: username, password, Server URL (local ip:58050 or your-website.ddns.net:58050)
 > 
 3./ **How use**
+> 
 Use rAudio to connect to BubbleUPnP Server and play your music on (Jellyfin, Emby, Asset UPnP DLNA, MinimServer, MiniDLNA, etc).
 > 
 You need to install BubbleUPnP Server on your NAS/PC/Pi and also install Jellyfin or Emby Server
