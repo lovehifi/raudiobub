@@ -12,10 +12,10 @@
 ####
 ####
 2./ **Config**
+> 
 In the Playlist tab, click the VU icon.
-Add: username, password, Server URL
-Sample Server URL:
-BubbleUPnP Server (On NAS): your-website.ddns.net:58050
+Add: username, password, Server URL (your-website.ddns.net:58050)
+
 > 
 >
 >
