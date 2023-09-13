@@ -28,3 +28,6 @@ In rAudio, the Playlist tab, click the VU icon.
 Add: username, password, Server URL (local ip:58050 or your-website.ddns.net:58050)
 >
 > Choose Server, Choose Music, Add Album
+>
+>
+![Alt text]([image link](https://raw.githubusercontent.com/lovehifi/raudiobub/main/rAudioBubble.png)https://raw.githubusercontent.com/lovehifi/raudiobub/main/rAudioBubble.png)
