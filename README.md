@@ -15,7 +15,7 @@
 > 
 Use rAudio to connect to BubbleUPnP Server and play your music on (Jellyfin, Emby, Asset UPnP DLNA, MinimServer, MiniDLNA, etc).
 > 
-You need to install BubbleUPnP Server on your NAS/PC/Pi and also install Jellyfin or Emby Server
+You need to install BubbleUPnP Server on your NAS, PC or Pi and also install Jellyfin or Emby Server
 > 
 You can install other Asset UPnP DLNA, MinimServer, MiniDLNA, etc., for BubbleUPnP Server.
 > 
