@@ -43,7 +43,9 @@ Choose Server, Choose Music, Add Album
 It can play Hi-Res (352khz) music from your NAS via the internet or locally.
 >
 **Server config**
->/mnt/MPD/SD/server_config.ini
+>
+/mnt/MPD/SD/server_config.ini
+>
 >[S1]
 >
 >config = "{\"srv_username\":\"admin\",\"srv_password\":\"admin\",\"bubbleServerUrl\":\"your-website:58050\"}"
