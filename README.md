@@ -31,7 +31,6 @@ Note URL: Only IP or name, not use http://
 >
 Choose Server, Choose Music, Add Album
 >
-
 >
 >
 ![Screenshot](rAudioBubble.png)
@@ -39,7 +38,8 @@ Choose Server, Choose Music, Add Album
 It can play Hi-Res (352khz) music from your NAS via the internet or locally.
 >
 --------------------------------
-**Manually edit: Server config**
+>
+5./ **Manually edit: Server config**
 >
 /mnt/MPD/SD/server_config.ini
 >
