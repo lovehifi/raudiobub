@@ -20,7 +20,8 @@ You need to install BubbleUPnP Server on your NAS, PC or Pi and also install Jel
 You can install other Asset UPnP DLNA, MinimServer, MiniDLNA, etc., for BubbleUPnP Server.
 > 
 BubbleUPnP Server will automatically detect all servers for the Media Server tab
-> 
+####
+####
 3./ **Config**
 > 
 In rAudio, the Playlist tab, click the VU icon.
