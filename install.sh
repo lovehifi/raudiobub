@@ -8,6 +8,7 @@ wget https://raw.githubusercontent.com/lovehifi/raudiobub/main/server_config.tgz
 
 tar -xzvf /tmp/bubupnpV8.tgz -C /srv/http/
 tar -xzvf /tmp/playlist.tgz -C /srv/http/data/playlists/
+mkdir -p /mnt/MPD/SD
 tar -xzvf /tmp/server_config.tgz -C /mnt/MPD/SD/
 
 
