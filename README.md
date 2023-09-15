@@ -56,3 +56,5 @@ It can play Hi-Res (352khz) music from your NAS via the internet or locally.
 >config = "{\"srv_username\":\"admin\",\"srv_password\":\"admin\",\"bubbleServerUrl\":\"your-website.ddns.net:58050\"}"
 >
 >
+Note URL: Only IP or name, not use http://
+--------------------------------
