@@ -4,10 +4,6 @@
 1./ **Install**
 > wget -O - https://raw.githubusercontent.com/lovehifi/raudiobub/main/install.sh | sh 
 > 
-> 
-> 
-> 
-
 >
 --------------------------------
 2./ **How use**
@@ -41,6 +37,7 @@ Choose Server, Choose Music, Add Album
 ![Screenshot](rAudioBubble.png)
 >
 It can play Hi-Res (352khz) music from your NAS via the internet or locally.
+>
 --------------------------------
 **Manually edit: Server config**
 >
