@@ -45,10 +45,14 @@ It can play Hi-Res (352khz) music from your NAS via the internet or locally.
 **Server config**
 >/mnt/MPD/SD/server_config.ini
 >[S1]
+>
 >config = "{\"srv_username\":\"admin\",\"srv_password\":\"admin\",\"bubbleServerUrl\":\"your-website:58050\"}"
+>
 >[S2]
 >config = "{\"srv_username\":\"admin\",\"srv_password\":\"admin\",\"bubbleServerUrl\":\"nas-name:58050\"}"
+>
 >[S3]
+>
 >config = "{\"srv_username\":\"admin\",\"srv_password\":\"admin\",\"bubbleServerUrl\":\"your-website.ddns.net:58050\"}"
 
-
+>
