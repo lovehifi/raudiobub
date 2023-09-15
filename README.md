@@ -42,7 +42,7 @@ Choose Server, Choose Music, Add Album
 >
 It can play Hi-Res (352khz) music from your NAS via the internet or locally.
 >
-**Server config**
+**Manually edit: Server config**
 >
 /mnt/MPD/SD/server_config.ini
 >
