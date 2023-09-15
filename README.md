@@ -23,7 +23,7 @@ In rAudio, the Playlist tab, click the VU icon.
 > 
 Add: username, password, Server URL (BubbleUPnP Server): local-ip:58050 or your-website.ddns.net:58050
 >
-Note URL: Only IP or name, not use http://
+Add URL: Only IP or name, not use http://
 >
 --------------------------------
 4./ **Add to Play**
@@ -56,5 +56,5 @@ It can play Hi-Res (352khz) music from your NAS via the internet or locally.
 >config = "{\"srv_username\":\"admin\",\"srv_password\":\"admin\",\"bubbleServerUrl\":\"your-website.ddns.net:58050\"}"
 >
 >
-Note URL: Only IP or name, not use http://
+Add URL: Only IP or name, not use http://
 --------------------------------
