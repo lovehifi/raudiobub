@@ -56,5 +56,9 @@ It can play Hi-Res (352khz) music from your NAS via the internet or locally.
 >config = "{\"srv_username\":\"admin\",\"srv_password\":\"admin\",\"bubbleServerUrl\":\"your-website.ddns.net:58050\"}"
 >
 >
-Add URL: Only IP or name, not use http://
+### Add URL: Only IP or name, not use http://
 --------------------------------
+
+## LMSBub: A Comparable Solution for LMS in rAudio
+
+Discover an analogous solution tailored for LMS in rAudio at this [rAudioBub GitHub repository](https://github.com/lovehifi/lmsbub).
