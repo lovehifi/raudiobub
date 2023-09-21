@@ -59,5 +59,10 @@ It can play Hi-Res (352khz) music from your NAS via the internet or locally.
 ### Add URL: Only IP or name, not use http://
 --------------------------------
 
-## LMSBub: A Comparable Solution for LMS-rAudio
+### LMSBub: A Comparable Solution for LMS-rAudio
 A Comparable Solution for rAudio at this [LMSBub GitHub repository](https://github.com/lovehifi/lmsbub).
+>
+---------------------
+### Another version of LMS-rAudio
+>
+at this [https://github.com/lovehifi/lmsbub9](https://github.com/lovehifi/lmsbub9).
